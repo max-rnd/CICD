@@ -6,12 +6,12 @@
       },
       "previewLimit": 50,
       "server": "localhost",
-      "port": 3306,
+      "port": 3307,
       "driver": "MariaDB",
-      "name": "cicd-symfony",
+      "name": "cookle",
+      "database": "symfony",
       "username": "root",
-      "password": "secret",
-      "database": "symfony"
+      "password": "secret"
     }
   ]
 }
